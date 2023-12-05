@@ -1,6 +1,6 @@
 Name:		texlive-actuarialsymbol
-Version:	54080
-Release:	2
+Version:	67201
+Release:	1
 Summary:	Actuarial symbols of life contingencies and financial mathematics
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/actuarialsymbol
