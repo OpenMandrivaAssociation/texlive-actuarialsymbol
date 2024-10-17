@@ -3,7 +3,7 @@ Version:	67201
 Release:	1
 Summary:	Actuarial symbols of life contingencies and financial mathematics
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/actuarialsymbol
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/actuarialsymbol
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/actuarialsymbol.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/actuarialsymbol.doc.r%{version}.tar.xz
